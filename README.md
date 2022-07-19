@@ -29,7 +29,7 @@ Você é um desenvolvedor de software no mundo de Pokémon e quer desenvolver um
 
 Você pode consumir a rota abaixo para receber os dados dos 151 pokémons originais (pokédex):
 
-https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json
+https://raw.githubusercontent.com/UpperSoft/desafio-backend-nodejs/main/src/pokedex.json
 
 Mas são muitos dados! Para simplificar a vida dos treinadores, você vai criar rotas onde eles possam consultar dados específicos de interesse. Após refletir, você concluiu que os seguintes endpoints são necessários:
 
